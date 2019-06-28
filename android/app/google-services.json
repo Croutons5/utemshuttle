@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83667289130",
+    "firebase_url": "https://shuttle-77534.firebaseio.com",
+    "project_id": "shuttle-77534",
+    "storage_bucket": "shuttle-77534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83667289130:android:c1ab8407a4f4ffb4",
+        "android_client_info": {
+          "package_name": "com.example.shuttle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83667289130-ccr79hro1fj9pg5ob99hq2abh95g30s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCFfu2cy0aOsJhEhfJBDwgMWM6d9OwVRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83667289130-ccr79hro1fj9pg5ob99hq2abh95g30s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
